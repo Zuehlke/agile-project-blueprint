@@ -12,13 +12,13 @@ The retrospective meeting is team-driven, therefore all members of the team shou
 
 The team members should feel comfortable to utter their concerns and express their thoughts. This is why persons not part of the team \(e.g. a project manager, a client, a superior ...\) must not participate in that meeting as the presence of such people could prevent an open and honest atmosphere.
 
-## When should a retrospective be held?
+## When should a Retrospective be held?
 
 Ideally a rtrospective is held at the end of every iteration. Calling off a retrospective usually is a bad idea as problems and impediments could remain undiscovered for another iteration which can negatively influence the performance of the team and some team members may start feeling discontent when they cannot speak out what is bothering them.
 
 Customer projects are often under time and cost pressure. As a result Retrospective meetings tend to be neglected as the customer or other stakeholders often do not see a direct advantage conducting a Retrospective. Teams should insist on the Retrospective meeting. They should talk to the stakeholders about the importance of such a meeting and that the team should be given the time and space to conducting it.
 
-## How long does a retrospective meeting usually take?
+## How long does a Retrospective usually take?
 
 The retrospective meeting should be a strictly timeboxed event. Of course you can finish the meeting when you have the feeling that you are through and no more insights will be generated if the meeting lasts longer but you should never exceed the timebox.
 
@@ -26,11 +26,11 @@ In Scrum a retrospective meeting takes 3 hours for a four week iteration for sho
 
 ## Before the Meeting
 
-### Explain the goal of the meeting
+### Explain the Goal of the Meeting
 
 Every participant should understand the importance of the Retrospective. Explain the goal of the meeting to the team - improving the process by inspecting the past iteration\(s\) and define actions to trigger this improvement.
 
-### Warm up the team
+### Warm up the Team
 
 Especially in teams where the people don't know each other well yet, chances are high that there are timid persons that don't like to expose themselves or are not used to express their thoughts to other people. Try to break the ice by conducting some warm-up exercises. Following are two ideas for warm-up exercises but when you search the internet you will find hundreds more.
 
@@ -50,7 +50,7 @@ Let each person describe the last iteration as their personal journey from one l
 2. Let the people describe their journey: How did they travel \(by foot, by car, by plane, a mix of everything, ...\)? Did they have to overcome certain obstacles \(e.g. cross a swamp, climb a mountain\)? Was the direction straight or did they take a detour or a shortcut? Did they meet interesting persons? Did they discover something special during the journey?
 3. Let the team guess which journey event matches to which event during the last iteration, e.g. "crossing the swamp" could associate with "Story 123 was hard to implement as we had to deal with a lot of untested legacy code".
 
-## During the meeting
+## During the Meeting
 
 It's a good practice to split the retrospective meeting into the following five steps:
 
@@ -60,9 +60,9 @@ It's a good practice to split the retrospective meeting into the following five 
 4. **Decide what to do: **define SMART actions
 5. **Close the retrospective: **Gather feedback from the team about the retro
 
-### Ideas for the retrospective meeting
+### Ideas for the Retrospective
 
-#### Four squares retrospective
+#### Four Squares Retrospective
 
 The four squares retrospective is probably the most simple form of a retrospective. It is a good starting point especially for teams that have never attended a retrospective meeting before.
 
@@ -79,11 +79,11 @@ When you're done with collecting post-it items you go through all the items, ana
 
 Then define SMART actions from the items. Usually most actions will evolve from the "bright ideas" and the "things that did not go well" section. And again define a timebox for this step. Sometimes it is better to have only a few actions that can be done during the next iteration instead of having tons of actions where half of it will probably not be done until the next retrospective meeting.
 
-#### Other retrospective meetings
+#### Different Retrospectives
 
 When the team feels comfortable with the retrospective you can start changing the format of the meeting. You can get tons of ideas for alternative retrospective formats online. A good source is the "[Retromat](https://plans-for-retrospectives.com/ "Retromat")".
 
-## Closing the meeting
+## Closing the Meeting
 
 Conduct a short retrospective retrospective to find out how the retrospective format worked out for the participants and what can be improved for the next meeting.
 
@@ -97,15 +97,15 @@ If a Retrospective is always held in the same way at the same place it will gene
 
 Try to change the location where the meeting is held, this prevents participants from feeling too comfortable in their accustomed place.
 
-#### Swap the facilitator
+#### Swap the Facilitator
 
 Swap the facilitator role within the team or use an external facilitator. This will automatically change the way the meeting is held and new ideas, issues or similar may pop up.
 
-#### Change the meeting format
+#### Change the Meeting Format
 
 There is nothing that is more boring than answering the same questions every two weeks. The same questions often produce the same answers. Try to change the format and also try to change the focus of the meeting. Sometimes you may want to find out how the team feels, sometimes you want to focus on technical issues, collaboration, quality or all together. Below you will find a couple of ideas how to conduct a retrospective \(see "During the meeting"\).
 
-#### Change the way of gathering data
+#### Change the Way of gathering Data
 
 Some people can speak openly in front of a large group whereas some are very timid. Collect data by word of mouth with the whole team, split into small groups or let the team write their thoughts down on paper - also think about doing it anonymously as some feel uncomfortable being exposed too much.
 
@@ -123,7 +123,7 @@ The goal of a retrospective is to define actions to improve the process. However
 
 In addition to these five SMART criterias I also recommend to assign an action item to a person. This person is not necessarily the one who executes the action but is responsible for it being executed. If an action is clearly defined using the SMART criterias but nobody feels responsible for it chances are very high that this action remains open until the next retrospective.
 
-### Plan your retrospective
+### Plan your Retrospective
 
 If you want to get the most out of your retrospective meeting it is mandatory that you plan the meeting. Define timeboxes and enforce them. It would be quite frustrating for all participants if you gather tons of data but you don't have the time to define actions.
 
