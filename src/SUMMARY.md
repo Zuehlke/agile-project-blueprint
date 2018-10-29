@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Topics](topics.md)
-  * [Team](environment-questions/team.md)
-  * [Stakeholders](environment-questions/stakeholders.md)
+  * [Team](topics/team.md)
+  * [Stakeholders](topics/stakeholders.md)
   * [Communication](topics/communication.md)
   * [Documentation](topics/documentation.md)
   * [Issue Management](topics/issue-management.md)
